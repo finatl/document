@@ -1,6 +1,6 @@
-# Accounting General Ledger
+### Accounting General Ledger
 
-> ACCOUNTING_GENERAL_LEDGER
+> Table name: <B>ACCOUNTING_GENERAL_LEDGER<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |
