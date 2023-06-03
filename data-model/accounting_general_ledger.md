@@ -1,2 +1,2 @@
-# document
-document
+# Accounting General Ledger
+
