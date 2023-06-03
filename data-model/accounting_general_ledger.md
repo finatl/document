@@ -15,4 +15,9 @@
 |  MANUAL_JOURNAL_ENTRIES_ALLOWED | boolean  |   |
 |  DISABLED  | boolean  |   |
 
-* <a name="ref_code"></a> For the tables whose goal is configuration, the primary key field has been named the "REF_CODE"
+>REF_CODE:
+ <a name="ref_code"></a> For the tables whose goal is configuration, the primary key field has been named the "REF_CODE"
+Two strategy can be chosen in coding the ref-code 
+* Numerical values 1:first record. 2: second record and ...
+* Set value similar to GL_CODE column 
+
