@@ -20,4 +20,4 @@
 Two strategy can be chosen in coding the ref-code
   * Numerical values 1:first record. 2: second record and ...
   * Set value similar to GL_CODE column 
-
+>
