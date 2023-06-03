@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T19:42:11.747Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wxI7jjJdYbZNecuF88B2" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T19:43:44.373Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cMNrk5PaTXIUE0or6BYb" version="21.3.7" type="github">
   <diagram name="Page-1" id="fs79J-ucJe77K3Y8tH45">
     <mxGraphModel dx="1876" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N7fRc56kS8bR0nnPCuzB-1" value="ACCOUNTING_GENERAL_LEDGER" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="N7fRc56kS8bR0nnPCuzB-1" value="GENERAL_LEDGER" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-1010" width="480" height="330" as="geometry" />
         </mxCell>
         <mxCell id="N7fRc56kS8bR0nnPCuzB-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" parent="N7fRc56kS8bR0nnPCuzB-1" vertex="1">
@@ -424,7 +424,7 @@
             <mxRectangle width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N7fRc56kS8bR0nnPCuzB-95" value="ACCOUNTING_PRODUCT_MAPPING" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="N7fRc56kS8bR0nnPCuzB-95" value="GENERAL_LEDGER_PRODUCT_MAPPING" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="160" y="-630" width="480" height="330" as="geometry" />
         </mxCell>
         <mxCell id="N7fRc56kS8bR0nnPCuzB-96" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" parent="N7fRc56kS8bR0nnPCuzB-95" vertex="1">
@@ -607,7 +607,7 @@
             <mxRectangle width="51" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N7fRc56kS8bR0nnPCuzB-136" value="ACCOUNTING_GL_JOURNAL_ENTRY" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="N7fRc56kS8bR0nnPCuzB-136" value="GL_JOURNAL_ENTRY" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-100" y="-260" width="480" height="410" as="geometry" />
         </mxCell>
         <mxCell id="N7fRc56kS8bR0nnPCuzB-137" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" parent="N7fRc56kS8bR0nnPCuzB-136" vertex="1">
@@ -844,7 +844,7 @@
             <mxRectangle width="51" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N7fRc56kS8bR0nnPCuzB-189" value="ACCOUNTING_GL_JOURNAL_ENTRY_REVERSE" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="N7fRc56kS8bR0nnPCuzB-189" value="GL_JOURNAL_ENTRY_REVERSE" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="440" y="-220" width="480" height="170" as="geometry" />
         </mxCell>
         <mxCell id="N7fRc56kS8bR0nnPCuzB-190" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" parent="N7fRc56kS8bR0nnPCuzB-189" vertex="1">
