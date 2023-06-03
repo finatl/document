@@ -1,7 +1,5 @@
-# document
-document
-
-
+## document
+this repository is documentation to the finawit finacial banking core solution
 
 
 # Data Model Documentation 
