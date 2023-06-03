@@ -1,7 +1,6 @@
+### Transaction Code Tag Schema 
 
-### 
-
-> Table name: <B><B>
+> Table name: <B>TRANSACTION_CODE_TAG_SCHEMA<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |

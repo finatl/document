@@ -1,7 +1,6 @@
+### Command Sourcing
 
-### 
-
-> Table name: <B><B>
+> Table name: <B>COMMAND_SOURCING<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |

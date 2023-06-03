@@ -1,7 +1,7 @@
+### General Ledger Product Mapping
 
-### 
 
-> Table name: <B><B>
+> Table name: <B>GENERAL_LEDGER_PRODUCT_MAPPING<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |

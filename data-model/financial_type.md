@@ -1,7 +1,6 @@
+### Financial Type 
 
-### 
-
-> Table name: <B><B>
+> Table name: <B>FINANCIAL_TYPE<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |

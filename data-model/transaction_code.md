@@ -1,7 +1,6 @@
+### Transaction Code
 
-### 
-
-> Table name: <B><B>
+> Table name: <B>TRANSACTION_CODE<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |

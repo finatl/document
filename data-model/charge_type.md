@@ -1,4 +1,3 @@
-
 ### Charge Type
 
 > Table name: <B>CHARGE_TYPE<B>

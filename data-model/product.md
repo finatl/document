@@ -1,7 +1,6 @@
+### Product
 
-### 
-
-> Table name: <B><B>
+> Table name: <B>PRODUCT<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |

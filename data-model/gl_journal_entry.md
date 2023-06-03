@@ -1,7 +1,6 @@
+### General Ledger Journal Entry  
 
-### 
-
-> Table name: <B><B>
+> Table name: <B>GL_JOURNAL_ENTRY<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |

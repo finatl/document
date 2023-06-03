@@ -1,7 +1,6 @@
+### Customer 
 
-### 
-
-> Table name: <B><B>
+> Table name: <B>CUSTOMER<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |

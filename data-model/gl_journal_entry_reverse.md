@@ -1,7 +1,6 @@
+### General Ledger Journal Entry Reverse
 
-### 
-
-> Table name: <B><B>
+> Table name: <B>GL_JOURNAL_ENTRY_REVERSE<B>
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |
