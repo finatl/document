@@ -31,10 +31,10 @@
   ### <a name="FINANCIAL_TYPE">Financial Type</a> 
 
 * FINANCIAL_TYPE
-- ASSET 
-- LIABILITY 
-- EQUITY 
-- INCOME
-- EXPENSE
-- SUBLINE
+  - ASSET 
+  - LIABILITY 
+  - EQUITY 
+  - INCOME
+  - EXPENSE
+  - SUBLINE
   
