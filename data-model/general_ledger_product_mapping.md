@@ -16,16 +16,16 @@
 
   
    ### <a name="FINANCIAL_TYPE_NAME">Financial Type names</a> 
-    #### Saving
-      - SAVINGS_CONTROL
-    #### ShortTerm Deposit
-      - DEPOSIT_CONTROL  
-    #### FixedDeposit
-      - DEPOSIT_CONTROL
-    #### Loan 
-      - LOAN_CONTROL
-      - INTEREST_ON_LOANS
-      - INCOME_FROM_FEES 
-      - INCOME_FROM_PENALTIES
+    ### Saving
+      * SAVINGS_CONTROL
+    ### ShortTerm Deposit
+      * DEPOSIT_CONTROL  
+    ### FixedDeposit
+      * DEPOSIT_CONTROL
+    ### Loan 
+      * LOAN_CONTROL
+      * INTEREST_ON_LOANS
+      * INCOME_FROM_FEES 
+      * INCOME_FROM_PENALTIES
   
   
