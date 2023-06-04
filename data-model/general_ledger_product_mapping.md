@@ -16,8 +16,8 @@
 
   
    ### <a name="FINANCIAL_TYPE_NAME">Financial Type names</a> 
-    ### Saving
-      * SAVINGS_CONTROL
+    * Saving
+      - SAVINGS_CONTROL
     ### ShortTerm Deposit
       * DEPOSIT_CONTROL  
     ### FixedDeposit
