@@ -5,11 +5,11 @@
 
 |  Field Name  | Type | Description|
 | :------------ | :------------ |:------------ |
-| ID  |   | |
-| GL_ACCOUNT_ID  |   | |
-| PRODUCT_REF_CODE  |   | |
-| CHARGE_TYPE_REF_CODE  |   | |
-| FINANCIAL_TYPE_NAME  |   | |
+| ID  |   primary key| |
+| GL_ACCOUNT_ID  |  General Ledger account table ID | |
+| PRODUCT_REF_CODE  |  product table pk. this refer to the product | |
+| CHARGE_TYPE_REF_CODE  | charge type   | |
+| FINANCIAL_TYPE_NAME  | Financial type name  | |
 | FIANCIAL_TYPE_REF_CODE  |   | |
 | DESCRIPTION_CODE  |   | |
 
