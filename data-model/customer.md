@@ -6,5 +6,6 @@
 | :------------ | :------------ |:------------ |
 | ID  |   | |
 | NAME  |   | |
-| USER_NAME  |   | |
+| DISPLAY_NAME  |   | |
+| FAMILY  |   | |
 | STATUS  |   | |
